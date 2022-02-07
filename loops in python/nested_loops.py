@@ -17,3 +17,5 @@ x = [[ 1,2,3,4 ], ['a','b','c','c']]
 for i in x:
     for j in i:
         print(j)
+        
+        # end ="" won't create a new line
