@@ -12,3 +12,8 @@
 # for var1 in seq1     | while condition
 # statements(s)        | statements(s)
 # -----------------------------------------------
+
+x = [[ 1,2,3,4 ], ['a','b','c','c']]
+for i in x:
+    for j in i:
+        print(j)
