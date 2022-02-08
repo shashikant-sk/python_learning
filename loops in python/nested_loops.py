@@ -24,3 +24,5 @@ for i in x:
     for j in i:
         print(j,end ="")
     print()
+    
+    
