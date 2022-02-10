@@ -4,3 +4,6 @@
 x = [1,4.2,"shashikant"]
 for i in x :
     print(i)
+    
+    
+    
