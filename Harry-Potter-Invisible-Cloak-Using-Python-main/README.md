@@ -11,6 +11,9 @@
 5. Combining two layers/masks so that it can be viewed as one frame
 
 6. After combining we will store it in default mask
+7. https://pypi.org/project/pygame/
+8. https://pypi.org/project/opencv-python/
+9. https://pypi.org/project/numpy/
 
 # The code for the following is 
 
