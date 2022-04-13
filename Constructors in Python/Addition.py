@@ -12,7 +12,7 @@ class Addition:
 		print("First number = " + str(self.first))
 		print("Second number = " + str(self.second))
 		print("Addition of two numbers = " + str(self.answer))
-
+s
 	def calculate(self):
 		self.answer = self.first + self.second
 
