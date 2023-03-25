@@ -1,0 +1,14 @@
+1).  Define a class complex with required attributes and menmber functions. and two complex number and display the result  
+ 
+ 2.) Using class in python add two times and display the result.
+  
+   ex :- Enter Time 1: 2:30:45
+         Enter time 3:45:22
+         -------------------
+         total time is 6:15:07
+ 
+  ex :-
+         enter the complex matrix 1: 2+3j
+         enter the complex matrix 2: 4+5j
+         ---------------------------------
+         complex after addition : 6+8j
