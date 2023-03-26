@@ -6,5 +6,7 @@
  
 #   varial_name.remove(element)
 #   print(varial_name)
+
+
   
   
